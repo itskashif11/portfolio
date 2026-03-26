@@ -2,7 +2,7 @@
   "name": "premium-portfolio",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://itskashif11.github.io/Premium-portfolio",
+  "homepage": "https://itskashif11.github.io/portfolio",
   "dependencies": {
     "framer-motion": "^10.18.0",
     "lucide-react": "^1.7.0",
